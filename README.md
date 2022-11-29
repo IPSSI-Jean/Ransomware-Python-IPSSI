@@ -29,9 +29,10 @@ Le projet est centralisé sur un seul fichier ```MalwareIPSSIv2.py```, il utilis
 
 # Environnement de travail
 
-Il est recommandé d'exécuter ce programme dans un environnement virtuel, il est facilement possible d'en mettre en place un avec les logiciels : 
+Il est recommandé d'exécuter ce programme dans un environnement virtuel, il est possible d'en mettre un en place à l'aide des logiciels suivants : 
 - Virtualbox
 - VMWare workstation pro
+- ...
 
 Installation des dépendances :
 
