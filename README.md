@@ -1,6 +1,6 @@
 # Ransomware-Python-IPSSI
 
-![CAPTURE](https://zupimages.net/up/22/48/2p89.png)
+![CAPTURE](https://zupimages.net/up/22/48/vpcg.png)
 
 **Ce ransomware a été réalisé dans le cadre pédagogique de l'IPSSI sur un projet d'1,5 jours.**
 
