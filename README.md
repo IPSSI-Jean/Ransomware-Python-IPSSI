@@ -4,9 +4,6 @@
 
 **Ce ransomware à été réalisé dans le cadre pédagogique de l'IPSSI sur un projet d'1,5 jours.**
 
-Si vous n'utilisez pas d'interpréteur de Markdown, ce README est disponible sur GITHUB à cette adresse : https://github.com/IPSSI-Jean/Ransomware-Python-IPSSI
-
-
 # Prérequis
 - Visual studio code
 
