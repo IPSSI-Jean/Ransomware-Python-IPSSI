@@ -58,6 +58,7 @@ Une fois le répertoire créé, dans visual studio code il faut cliquer sur Fich
 ![CAPTURE](https://zupimages.net/up/22/48/yo0l.png)
 
 Une fois cette étape réalisée il faut faire Fichier → Nouveau fichier et lui donner l’extension .py afin que visual studio code comprenne que c’est un fichier python
+
 ![CAPTURE](https://zupimages.net/up/22/48/xe6a.png)
   
 # Auteur
