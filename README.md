@@ -1,5 +1,6 @@
 # Ransomware-Python-IPSSI
 
+![CAPTURE](https://zupimages.net/up/22/48/v9hz.png)
 
 # Ransomware TP 1 - IPSSI
 Bienvenue dans ce README, l'objectif de ce document est d'expliquer le fonctionnement du ransomware.
