@@ -1,6 +1,6 @@
 # Ransomware-Python-IPSSI
 
-![CAPTURE](https://zupimages.net/up/22/48/v9hz.png)
+![CAPTURE](https://zupimages.net/up/22/48/2p89.png)
 
 **Ce ransomware à été réalisé dans le cadre pédagogique de l'IPSSI sur un projet d'1,5 jours.**
 
@@ -16,18 +16,20 @@ Si vous n'utilisez pas d'interpréteur de Markdown, ce README est disponible sur
 
 - Connaissances basique / intermédiaire en Python
 
-  # Fonctionnement du projet
+# Fonctionnement du projet
+
+Le projet est centralisé sur un seul fichier ```MalwareIPSSIv2.py```
   
-- Générer une paire de clés
-- Chiffrer les fichiers / répertoires à l'aide des clés générées
-- Supprimer les fichiers originaux à la fin de ce chiffrement
-- Afficher un compte à rebourd qui, si il arrive à la fin détruit les fichiers / répertoires chiffrés
+- Génère une paire de clés
+- Chiffre les fichiers / répertoires à l'aide des clés générées
+- Supprime les fichiers originaux à la fin de ce chiffrement
+- Affiche un compte à rebourd qui, si il arrive à la fin détruit les fichiers / répertoires chiffrés
 - Un bouton " envoyer l'argent " est disponible, suite au clic de ce dernier, cela débloque un bouton déchiffrer
-- Ce bouton déchiffrer va déchiffrer les données et fermer le compte à rebourd
+- Ce bouton "déchiffre" va déchiffrer les données et fermer le compte à rebourd
 
 # Environnement de travail
 
-Il est recommandé d'exécuter ce programme dans un environnement virtuel tel que : 
+Il est recommandé d'exécuter ce programme dans un environnement virtuel, il est facilement possible d'en mettre en place un avec les logiciels : 
 - Virtualbox
 - VMWare workstation pro
 
@@ -41,10 +43,8 @@ L'exécution du script peut se faire de plusieurs manières, via un interpréteu
 
 Auteur du projet : Jean O.
 
-# Version du projet
-
-Version stable : 1.0
+Version stable : ```1.0```
 
 # Licence
 
-Ce projet est à but éducatif, il n'est sous aucune licences.
+Ce projet est à but éducatif, il n'est soumis à aucune licences.
