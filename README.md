@@ -37,9 +37,11 @@ Si vous n'utilisez pas d'interpréteur de Markdown, ce README est disponible sur
 ### Tutoriel d'installation Word + Python également disponible dans le Word
 
 Avant d'entamer la phase de rédaction du ransomware il est nécessaire d’installer 2 dépendances essentielles au bon fonctionnement, pour ce faire il suffit d’installer python3, disponible sur le microsoft store
+
 ![CAPTURE](https://zupimages.net/up/22/48/byrb.png)
 
 Il suffit de sélectionner ce paquet et l’installer, cela permettra à Windows d'interpréter le code
+
 ![CAPTURE](https://zupimages.net/up/22/48/7dub.png)
 
 Suite à cela il faut installer les dépendances via le powershell ( ou tout autre interpréteur de commandes ) et réaliser cette commande :
@@ -48,6 +50,7 @@ Suite à cela il faut installer les dépendances via le powershell ( ou tout aut
 ![CAPTURE](https://zupimages.net/up/22/48/rw8d.png)
 
 ( Sur la capture, l’interpréteur de commandes Powershell renvoie que les dépendances étaient déjà installées )
+
 ![CAPTURE](https://zupimages.net/up/22/48/gwyh.png)
 
 **Un redémarrage de l’hôte ou du logiciel Visual studio code est probablement nécessaire**
