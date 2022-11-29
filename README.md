@@ -2,7 +2,7 @@
 
 ![CAPTURE](https://zupimages.net/up/22/48/2p89.png)
 
-**Ce ransomware à été réalisé dans le cadre pédagogique de l'IPSSI sur un projet d'1,5 jours.**
+**Ce ransomware a été réalisé dans le cadre pédagogique de l'IPSSI sur un projet d'1,5 jours.**
 
 # Prérequis
 - Visual studio code
@@ -15,12 +15,12 @@
 
 # Fonctionnement du projet
 
-Le projet est centralisé sur un seul fichier ```MalwareIPSSIv2.py```, il utilise un fichier ```test.txt``` contenant du texte. Ce dernier sert de test pour l'exécution du Ransomware
+Le projet est centralisé sur un seul fichier ```MalwareIPSSIv2.py```, il utilise un fichier ```test.txt``` contenant du texte. Ce dernier sert de test pour l'exécution du Ransomware.
   
 - Génère une paire de clés
 - Chiffre les fichiers / répertoires à l'aide des clés générées
 - Supprime les fichiers originaux à la fin de ce chiffrement
-- Affiche un compte à rebourd qui, si il arrive à la fin détruit les fichiers / répertoires chiffrés
+- Affiche un compte à rebours qui, s'il arrive à la fin détruit les fichiers / répertoires chiffrés
 - Un bouton " envoyer l'argent " est disponible, suite au clic de ce dernier, cela débloque un bouton déchiffrer
 - Ce bouton "déchiffre" va déchiffrer les données et fermer le compte à rebourd
 
