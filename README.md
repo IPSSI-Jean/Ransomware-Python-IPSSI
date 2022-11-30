@@ -1,6 +1,6 @@
 # Ransomware-Python-IPSSI
 
-!-- Image centrée -->
+<!-- Image centrée -->
 
 <div align="center">
 
