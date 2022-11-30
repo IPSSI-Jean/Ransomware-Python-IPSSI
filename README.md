@@ -15,7 +15,7 @@
 
 # Fonctionnement du projet
 
-Le projet est centralisé sur un seul fichier ```MalwareIPSSIv2.py```, il utilise un fichier ```test.txt``` contenant du texte. Ce dernier sert de test pour l'exécution du Ransomware.
+Le projet est centralisé sur un seul fichier ```Ransomwarev1.py```, il utilise un fichier ```test.txt``` contenant du texte. Ce dernier sert de test pour l'exécution du Ransomware.
   
 - Génère une paire de clés
 - Chiffre les fichiers / répertoires à l'aide des clés générées
