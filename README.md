@@ -28,7 +28,7 @@ Il est recommandé d'exécuter ce programme dans un environnement virtuel, il es
 
 # Description du projet et axes d'améliorations
 
-Le projet est centralisé sur un seul fichier ```ransomware.pyw``` (exécutable), il utilise un fichier ```test.txt``` contenant du texte. Ce dernier sert de test pour l'exécution du Ransomware.
+Le projet est centralisé sur un seul fichier ```ransomware.py```, il utilise un fichier ```test.txt``` contenant du texte. Ce dernier sert de test pour l'exécution du Ransomware.
   
 1) Génère une **paire de clés**
 2) **Chiffre les fichiers / répertoires** à l'aide des clés générées
