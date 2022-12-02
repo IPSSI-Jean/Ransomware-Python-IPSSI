@@ -15,7 +15,7 @@
 >Un ransomware est logiciel de rançon ou logiciel d'extorsion, est un logiciel malveillant qui prend en otage des données personnelles, le déchiffrement de ces dernières sont possible moyennant un paiement
 
 # Prérequis
-- Visual studio code
+- Visual studio codes
 
 - Python3
 
@@ -25,10 +25,18 @@ Il est recommandé d'exécuter ce programme dans un environnement virtuel, il es
 - Virtualbox --> Sur une VM Windows / Linux
 - VMWare workstation pro --> Sur une VM Windows / Linux
 - ...
+- 
+# Dépendances
+
+Le projet nécessite l'installation de dépendances Python, ces dernières sont disponibles dans le fichier ```requirements.txt```.
+
+```
+pip install -r requirements.txt
+```
 
 # Description du projet et axes d'améliorations
 
-Le projet est centralisé sur un seul fichier ```ransomware.py```, il utilise un fichier ```test.txt``` contenant du texte. Ce dernier sert de test pour l'exécution du Ransomware.
+Le projet est centralisé sur un seul fichier ```ransomware.pyw``` (exécutable), il utilise un fichier ```test.txt``` contenant du texte. Ce dernier sert de test pour l'exécution du Ransomware.
   
 1) Génère une **paire de clés**
 2) **Chiffre les fichiers / répertoires** à l'aide des clés générées
@@ -38,12 +46,6 @@ Le projet est centralisé sur un seul fichier ```ransomware.py```, il utilise un
 6) Ce bouton "déchiffre" **va déchiffrer les données et fermer le compte à rebourd**
 
 # Environnement de travail
-
-Installation des dépendances :
-
-```
-pip install pycryptodomex pycryptodome
-```
 
 L'exécution du script peut se faire de plusieurs manières, via un interpréteur de commandes, dans visual studio code etc...
 
