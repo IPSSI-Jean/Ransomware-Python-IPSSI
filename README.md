@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 # Description du projet et axes d'améliorations
 
-Le projet est centralisé sur un seul fichier ```ransomware.pyw``` (exécutable), il utilise un fichier ```test.txt``` contenant du texte. Ce dernier sert de test pour l'exécution du Ransomware.
+Le projet est centralisé sur un seul fichier ```ransomware.py``` (exécutable), il utilise un fichier ```test.txt``` contenant du texte. Ce dernier sert de test pour l'exécution du Ransomware.
   
 1) Génère une **paire de clés**
 2) **Chiffre les fichiers / répertoires** à l'aide des clés générées
@@ -46,6 +46,13 @@ Le projet est centralisé sur un seul fichier ```ransomware.pyw``` (exécutable)
 4) Affiche un compte à rebours qui, **s'il arrive à la fin détruit les fichiers / répertoires chiffrés**
 5) Un bouton " envoyer l'argent " est disponible, suite au clic de ce dernier, **cela débloque un bouton déchiffrer**
 6) Ce bouton "déchiffre" **va déchiffrer les données et fermer le compte à rebourd**
+
+# Avancement du projet
+
+- [x] Mise en place du chiffrement du fichier à l'aide des clés ( + modification de l'extension de ce dernier )
+- [x] Mise en place du déchiffrement du fichier à l'aide des clés
+- [x] Mise en place d'un compte à rebourd qui, lorsqu'il arrive à 0 détruit le fichier chiffré ainsi que les clés stockés 
+- [x] Mise en place d'un bouton d'envoi d'argent (factice) qui fait apparaître un bouton de déchiffrement qui permet de déchiffrer le fichier précedemment chiffré et supprime les clés
 
 # Environnement de travail
 
