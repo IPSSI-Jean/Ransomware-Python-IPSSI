@@ -34,7 +34,7 @@ Le projet nécessite l'installation de dépendances Python, ces dernières sont 
 pip install -r requirements.txt
 ```
 
->Il sera également nécessaire de relancer l'interpréteur de code afin de prendre en compte l'installation.
+>Il sera potentiellement nécessaire de relancer l'interpréteur de code afin de prendre en compte l'installation.
 
 # Description du projet et axes d'améliorations
 
