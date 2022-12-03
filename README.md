@@ -25,7 +25,7 @@ Il est recommandé d'exécuter ce programme dans un environnement virtuel, il es
 - Virtualbox --> Sur une VM Windows / Linux
 - VMWare workstation pro --> Sur une VM Windows / Linux
 - ...
-- 
+
 # Dépendances
 
 Le projet nécessite l'installation de dépendances Python, ces dernières sont disponibles dans le fichier ```requirements.txt```.
